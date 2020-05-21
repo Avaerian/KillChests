@@ -1,0 +1,5 @@
+name: KillChests
+main: org.avaeriandev.killchests.KillChestsPlugin
+author: AvaerianDev
+version: 1.0.0
+api-version: 1.15
